@@ -4,26 +4,24 @@
 > Let A and B be sets where x ∈ A and y ∈ B. A relation, R is a subset of A x B.
 ### Enumeration 
 > In other words, we take the first element of set A and create new ordered pair with the elements of set B.
-> 
-> e.g. 
+
+ex:
 > A = {1,2,3} 
 > B = {1,2,3} 
 > A x B = {(1,1),(1,2),(1,3),(2,1),(2,2),(2,3),(3,1),(3,2),(3,3)}
 
 #### Notation
-
-> x is related to y: x R y or (x,y) ∈ R
-> x is not related to y: (x,y) ∉ R
+x is related to y: x R y or (x,y) ∈ R
+x is not related to y: (x,y) ∉ R
 
 # Example
+Let A = {1, 2, 3} and let B = {1, 2, 3}
 
->Let A = {1, 2, 3} and let B = {1, 2, 3}
->
 >a) Enumerate A × B
 >
 >b) Let R be defined on A × B so that (x, y) ∈ R <-> x-y is odd. Determine what ordered pairs of A × B ∈ R.
 >
- c) Draw two mapping diagrams of R. One where A maps to B, and one where A maps to itself.
+ >c) Draw two mapping diagrams of R. One where A maps to B, and one where A maps to itself.
  
 ##### Solution
 
@@ -31,18 +29,18 @@
 >
 >  a) A x B = {(1,1),(1,2),(1,3),(2,1),(2,2),(2,3),(3,1),(3,2),(3,3)}
 >  
->R is defined to be an ordered pair (x,y) that is an element of the set R where (x - y) are odd.
+>  R is defined to be an ordered pair (x,y) that is an element of the set R where (x - y) are odd.
 >
 >  b) R = {(1,2),(2,1),(2,3),(3,2)}
 >  
->Now we need to draw the mapping diagrams for the sets.
+>  Now we need to draw the mapping diagrams for the sets.
 >
 >c) ![[5.1 - Relations - Enumeration Diagram.drawio.png]]
 
 # Less than or equal to relation
 
 >Let A = {1,2} and let B = {0, 1, 2, 3}. Let x R y if x ≤ y. Find all (x,y) ∈ R  and list R as a set.
->
+
 >Solution: We will enumerate all of the pairs (x,y) and see which ones satisfy x ≤ y
 
 x | y | x <= y| x R y
