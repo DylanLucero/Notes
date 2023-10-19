@@ -39,3 +39,23 @@
 >Finding an element in a linked list
 ## Concatenation
 >the process of appending second list to the end of the first
+
+# Dynamic Memory Allocation
+Creating and maintining data structures requires dynamic memory allocation - the ability for a program to obtain more memory space at execution time to hold new nodes, and to release space no longer needed.
+
+## Functions essential to memory allocation
+Make sure to typecast the void pointer to the correct type.
+The allocated memory is not initialized.
+### malloc
+>Takes an argument that is the number of bytes to be allocated and returns a void pointer to the allocated memory.
+
+##### Example usage
+>newPtr = (node*)malloc(sizeof(struct node));
+### free
+>Deallocates memory - i.e. the memory is returned to the system so that it can be reallocated.
+##### Example usage
+>free(newPtr);
+### sizeof()
+
+[[Linked List Example Code]]
+
