@@ -10,16 +10,16 @@
 
 ### Chapter 1 - Logic Part 1
 
-#### [[Section 1.1 -]]
+#### [[Section 1.1 - Statements]]
 ### Chapter 2 - Logic Part 2
 
-#### [[Section 2.1 -]]
+#### [[Section 2.1 - Predicates and Truth Sets]]
 ### Chapter 3 - Set Theory
 
-#### [[Section 3.1 -]]
+#### [[Section 3.1 - Sets and Elements]]
 ### Chapter 4 - Functions
 
-#### [[Section 4.1 -]]
+#### [[Section 4.1 - Functions, Properties, and Map Diagrams]]
 ### Chapter 5 - Relations
 #### [[Section 5.1 - Relations and Mapping Diagrams]]
 [[Section 5.1 - Relations and Mapping Diagrams#Definitions|Definitions]]
