@@ -1,15 +1,10 @@
 # Definitions
 
->A [[Section 5.1 - Relations and Mapping Diagrams#Definition|relation]] R is _**reflexive**_ if ∀x ∈ A, x R x.
->![[Reflexive.png]]
+A [[Section 5.1 - Relations and Mapping Diagrams#Definition|relation]] R is _**reflexive**_ if ∀x ∈ A, x R x.
 ^e4da0b
-
->A [[Section 5.1 - Relations and Mapping Diagrams#Definition|relation]] R is _**symmetric**_ if ∀x,y ∈ A, if x R y then y R x. 
->![[symmetric.png]]
+A [[Section 5.1 - Relations and Mapping Diagrams#Definition|relation]] R is _**symmetric**_ if ∀x,y ∈ A, if x R y then y R x. 
 ^23e1e2
-
->A [[Section 5.1 - Relations and Mapping Diagrams#Definition|relation]] R is _**transitive**_ if ∀x, y, z ∈ A, if x R y and y R z, then x R z.
->![[Transitive.png]]
+A [[Section 5.1 - Relations and Mapping Diagrams#Definition|relation]] R is _**transitive**_ if ∀x, y, z ∈ A, if x R y and y R z, then x R z.
 ^acf3bd
 
 >>>Note: Since these three properties have universal quantifiers, their negations are existential quantifiers.
@@ -33,7 +28,7 @@ In order for us to determine if our set R is reflexive, symmetric or transitive,
 
 Since we are doing A x A, we  can draw the diagram as such:
 a) Let A = {1, 2, 3) Let R be defined on A × A so that x R y if x ≤ y.
-![[5.2-example-a.png]]
+
 Taking a look at the diagram, we can see that A x A with the restraint of x <= y is both [[Section 5.2 - Equivalence Relations#^e4da0b|reflexive]] and [[Section 5.2 - Equivalence Relations#^acf3bd|transitive]].
 
 b) Let A = {1, 2, 3}. Let R be defined on A×A so that (x,y) ∈  R ↔ x − y is even. 

@@ -14,9 +14,9 @@ Method:
 3) If you do reach a constant sequence, the degree of the polynomial is k, where k is the number of difference sequences it takes to reach a constant sequence.  
 4) Set up a system of equations using the information in the table below.
 
-|   |   |   |   |   |
+
+|Difference Sequences|Type|Degree of Polynomial|Form|Number of equations and data points to solve for parameters|
 |---|---|---|---|---|
-|Difference Sequences|Type|Degree<br><br>of Polynomial|Form|Number of equations and data points to solve for parameters|
 |1st differences constant|Linear|1st degree|$a_n=an+b$|2|
 |2nd differences<br><br>constant|Quadratic|2nd degree|$a_n=an^2+bn+c$|3|
 |3rd differences<br><br>constant|Cubic|3rd degree|$a_n+an3+bn2+c+d$|4|

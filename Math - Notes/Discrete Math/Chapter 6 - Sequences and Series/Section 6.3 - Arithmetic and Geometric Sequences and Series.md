@@ -6,7 +6,7 @@
 # Geometric
 ## Definition
 - A **sequence is geometric** if it has the form $a_n = a_ir^{n-1}$. A **series is geometric** if it is the sum of a geometric series.
-## Formula
+## Formulas
 - Let $a_n = a_ir^{n-1}$ be a geometric sequence. The sum, $S_k$ , of the first k terms of the geometric series can be found using the formula: $$S_k = \sum_{n=1}^ka_n = a_1 * \frac{(1-r^n)}{(1-r)}$$
 # Example - Arithmetic
 1) Find the formula for the arithmetic sequence $a_n = 4, 7, 10, 13, 16, ...$ with $n>= 1$.
