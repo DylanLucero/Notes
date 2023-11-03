@@ -5,7 +5,7 @@
 ## [Discrete Math](#discrete-math)
    ### [Chapter 1 - Logic Part 1](#chapter-1---logic-part-1)
   #### [Section 1.1 - Statements](#section-11---statements)
-   [Definitions](#definitions)  
+   [Definitions](https://github.com/DylanLucero/Notes/blob/7d59846883f9d4635e1377ab0fc38fc32a7c0e35/Math%20-%20Notes/Discrete%20Math/Chapter%201%20-%20Logic%20Part%201/Section%201.1%20-%20Statements.md)  
    [Statement](#statement)  
    [Simple Statement](#simple-statement)  
    [Compound Statement](#compound-statement)  
