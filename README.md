@@ -1,36 +1,49 @@
-# Table of Contents
-## [Calculus 1](#calculus-1)
-## [Calculus 2](#calculus-2)
-## [Calculus 3](#calculus-3)
-## [Discrete Math](#discrete-math)
-   ### [Chapter 1 - Logic Part 1](#chapter-1---logic-part-1)
-  #### [Section 1.1 - Statements](#section-11---statements)
-   [Definitions](https://github.com/DylanLucero/Notes/blob/7d59846883f9d4635e1377ab0fc38fc32a7c0e35/Math%20-%20Notes/Discrete%20Math/Chapter%201%20-%20Logic%20Part%201/Section%201.1%20-%20Statements.md)  
-   [Statement](#statement)  
-   [Simple Statement](#simple-statement)  
-   [Compound Statement](#compound-statement)  
-   [Logical Symbols](#logical-symbols)  
-   [Truth Tables](#truth-tables)  
-        [Truth Tables for Negation of p](#truth-tables-for-negation-of-p)  
-        [Truth table for the Conjunction of p and q](#truth-table-for-the-conjunction-of-p-and-q)  
-        [Truth table for the Disjunction of p and q](#truth-table-for-the-disjunction-of-p-and-q)  
-  #### [Section 1.2 - Logical Equivalence](#section-12---logical-equivalence)
-      - [Definitions](#definitions-1)
-      - [Logical Equivalence](#logical-equivalence-1)
-      - [Tautology](#tautology)
-      - [Contradiction](#contradiction)
-      - [Guidelines for justifying whether two statements are logically equivalent](#guidelines-for-justifying-whether-two-statements-are-logically-equivalent)
+
+# Obsidian Plugins in Use
+
+[Quick LaTeX for Obsidian](https://github.com/joeyuping/quick_latex_obsidian) by [joeyuping](https://github.com/joeyuping)
+
+[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) by [tgrosinger](https://github.com/tgrosinger)
+# Discrete Math
+   ## [Chapter 1 - Logic Part 1](#chapter-1---logic-part-1)
+  ### [Section 1.1 - Statements](#section-11---statements)
+   - [Definitions](https://github.com/DylanLucero/Notes/blob/7d59846883f9d4635e1377ab0fc38fc32a7c0e35/Math%20-%20Notes/Discrete%20Math/Chapter%201%20-%20Logic%20Part%201/Section%201.1%20-%20Statements.md)  
+   - [Statement](#statement)  
+   - [Simple Statement](#simple-statement)  
+   - [Compound Statement](#compound-statement)  
+   - [Logical Symbols](#logical-symbols)  
+   - [Truth Tables](#truth-tables)  
+   - [Truth Tables for Negation of p](#truth-tables-for-negation-of-p)  
+   - [Truth table for the Conjunction of p and q](#truth-table-for-the-conjunction-of-p-and-q)  
+  - [Truth table for the Disjunction of p and q](#truth-table-for-the-disjunction-of-p-and-q)  
+---
+
+
+  ### [Section 1.2 - Logical Equivalence](#section-12---logical-equivalence)
+  - [Definitions](#definitions-1)
+  - [Logical Equivalence](#logical-equivalence-1)
+  - [Tautology](#tautology)
+  - [Contradiction](#contradiction)
+  - [Guidelines for justifying whether two statements are logically equivalent](#guidelines-for-justifying-whether-two-statements-are-logically-equivalent)
       - [Guidelines for justifying whether a statement is a tautology, contradiction or neither](#guidelines-for-justifying-whether-a-statement-is-a-tautology-contradiction-or-neither)
-  #### [Section 1.3 - Common Logical Equivalences](#section-13---common-logical-equivalences)
-  #### [Section 1.4 - Conditional Statements](#section-14---conditional-statements)
-      - [Definition](#definition-1)
-      - [Truth Table for the Conditional If p then q](#truth-table-for-the-conditional-if-p-then-q)
-      - [Truth Table for the Biconditional p if and only if q](#truth-table-for-the-biconditional-p-if-and-only-if-q)
-  #### [Section 1.5 - Valid and Invalid Arguments](#section-15---valid-and-invalid-arguments)
-      - [Definition](#definition-2)
-      - [Guidelines for justifying whether an argument is valid or invalid](#guidelines-for-justifying-whether-an-argument-is-valid-or-invalid)
-      - [Reference table for some common rules of inference](#reference-table-for-some-common-rules-of-inference)
-  - [Chapter 2 - Logic Part 2](#chapter-2---logic-part-2)
+---
+
+  ### [Section 1.3 - Common Logical Equivalences](#section-13---common-logical-equivalences)
+---
+
+  ### [Section 1.4 - Conditional Statements](#section-14---conditional-statements)
+  - [Definition](#definition-1)
+  - [Truth Table for the Conditional If p then q](#truth-table-for-the-conditional-if-p-then-q)
+  - [Truth Table for the Biconditional p if and only if q](#truth-table-for-the-biconditional-p-if-and-only-if-q)
+  ---
+
+  ### [Section 1.5 - Valid and Invalid Arguments](#section-15---valid-and-invalid-arguments)
+  - [Definition](#definition-2)
+  - [Guidelines for justifying whether an argument is valid or invalid](#guidelines-for-justifying-whether-an-argument-is-valid-or-invalid)
+  - [Reference table for some common rules of inference](#reference-table-for-some-common-rules-of-inference)
+  ---
+
+  ## [Chapter 2 - Logic Part 2](#chapter-2---logic-part-2)
     - [Section 2.1 - Predicates and Truth Sets](#section-21---predicates-and-truth-sets)
   - [Chapter 3 - Set Theory](#chapter-3---set-theory)
     - [Section 3.1 - Sets and Elements](#section-31---sets-and-elements)
@@ -89,7 +102,3 @@
     - [Section 10.1 -](#section-101-)
   - [Chapter 11](#chapter-11)
     - [Section 11.1 -](#section-111-)
-- [Linear Algebra](#linear-algebra)
-
-# Calculus 1
-------------------------------------------------
