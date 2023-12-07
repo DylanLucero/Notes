@@ -13,8 +13,11 @@ The problem above, known as the Seven Bridges of Königsberg, is the problem tha
 
 There is an obvious connection between these two problems. Any path in the dot and line drawing corresponds exactly to a path over the bridges of Königsberg.
 
-Definition: An _**Euler path**_, in a graph or multigraph, is a walk through the graph which uses every edge exactly once.  
-Definition: An _**Euler circuit**_ is an Euler path which starts and stops at the same vertex. Our goal is to find a quick way to check whether a graph (or multigraph) has an Euler path or circuit.
+## Definition 
+An _**Euler path**_, in a graph or multigraph, is a walk through the graph which uses every edge exactly once.   ^1f73f5
+
+An _**Euler circuit**_ is an Euler path which starts and stops at the same vertex. Our goal is to find a quick way to check whether a graph (or multigraph) has an Euler path or circuit. ^a34b00
+
 
 If we start at a vertex and trace along edges to get to other vertices, we create a walk through the graph. More precisely, a walk in a graph is a sequence of vertices such that every vertex in the sequence is adjacent to the vertices before and after it in the sequence. If the walk travels along every edge exactly once, then the walk is called an Euler path (or Euler walk). If, in addition, the starting and ending vertices are the same (so you trace along every edge exactly once and end up where you started), then the walk is called an Euler circuit (or Euler tour). Of course if a graph is not connected, there is no hope of finding such a path or circuit. For the rest of this section, assume all the graphs discussed are connected.
 

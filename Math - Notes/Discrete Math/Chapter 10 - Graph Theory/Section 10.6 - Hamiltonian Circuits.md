@@ -10,7 +10,8 @@ Suppose a salesman needs to give sales pitches in four cities. He looks up the a
 
 In this problem, we are not interested in traversing every edge like we did with Euler circuits.  Instead we want to visit every vertex.  In addition, we don’t want to repeat a vertex.  Once the salesman visits LA, there is no reason to fly back there. There are many algorithms to find solutions which we will learn in the next chapter.  However, they do not necessarily produce optimal solutions in the context of cost.  For now, we will focus on the basics of the structure.
 
-Definition:  Given a graph G, a **_Hamiltonian circuit_** for G is a simple circuit that includes every vertex of G.
+## Definition  
+Given a graph G, a **_Hamiltonian circuit_** for G is a simple circuit that includes every vertex of G. ^2cd675
 
 Theorem:  If G has a nontrivial Hamiltonian circuit, then G has a subgraph H with the following properties.
 
