@@ -26,9 +26,9 @@ So the corresponding indistinguishable permutations are ABA, AAB, and BAA for a 
 
 To count the indistinguishable permutations from the original permutations, we divide by the number of ways to arrange the A’s if they were indistinguishable or $$\frac{3!}{2!}= \frac{{3×2×1}}{{2×1}}=3$$
 ### Formula
-The number of indistinguishable permutations of n objects where there are ri��  of indistinguishable type $i$ for $1≤i≤k$ is
+The number of indistinguishable permutations of n objects where there are $r_i$  of indistinguishable type $i$ for $1≤i≤k$ is
 
- $$\frac{n!}{r1!\; r2!\; ×\;...×\;r_k!}$$
+ $$\frac{n!}{r_1!\; r_2!\; ×\;...×\;r_k!}$$
 # Indistinguishable Permutations
 a) Find the number of indistinguishable permutations of the letters in MISSISSIPPI
 
@@ -40,7 +40,7 @@ Number of I’s = 4
 Number of S’s = 4  
 Number of P’s = 2
 
-So $n=11,\;r_1=,\;r_2=4,\;r_3=4,\;r_4=2,\;k=4$
+So $n=11,\;r_1=1,\;r_2=4,\;r_3=4,\;r_4=2,\;k=4$
  $$\frac{n!}{r1! r2!×...×rk!}=\frac{11!}{1!\;4!\;4!\;2!}$$
 $$=\frac{39,916,800}{1×24×24×2}=34,650$$
 

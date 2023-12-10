@@ -15,3 +15,9 @@ Simplifying results in,$$x^7+21x^6+189x^5+945x^4+2835x^3+5103x^2+5103x+2187$$
 Write the following in closed form (no summation symbol) using the binomial theorem.
 
 $$\sum\limits^n_{k=0}\begin{pmatrix}n\\k\end{pmatrix}9^k$$
+Recall that the Binomial Theorem is $$(a+b)^n=\sum\limits^n_{k=0}\begin{pmatrix}n\\k\end{pmatrix}a^{n−k}b^k$$
+Using this form, we can start labeling a, b, and n. Since $9$ is raised to the $k$, this is our $b$.
+So,$$b=9\;\;\;\;\;n=n$$
+We can think of $a$ to be $(1)^{n-k}$ since 1 times anything it itself.
+So, $$a=1\;\;\;\;\;b=9\;\;\;\;\;n=n$$
+Which makes our closed form expression $$(1+9)^n=10^n$$

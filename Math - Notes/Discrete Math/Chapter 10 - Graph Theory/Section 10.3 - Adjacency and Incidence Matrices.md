@@ -66,8 +66,7 @@ Theorem:  Let G be a graph with vertices v1, v2, …, vn and let A be the n x 
 ## Example
 Use technology to find A2, A3, A4, and A5.  **[Matrix Calculator LINK](https://keisan.casio.com/exec/system/15782922275976)**  Then answer the questions.
 
-                          ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid7_4.png)  
-                          ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid8_4.png)
+  ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid7_4.png)                          ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid8_4.png)
 
 a) How many walks of length 2 are there between v5 and itself? List them.
 
@@ -81,13 +80,15 @@ Solution:  This is the image of A in the online matrix calculator.
 
 These are the powers of A computed by the matrix calculator.
 
-                                                       A2                                                                                                 A3
+   A2                                                                                                 A3
 
-                                                             ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid10_4.png)                              ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid11_4.png)
+  ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid10_4.png)                             
+  ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid11_4.png)
 
-                                                        A4                                                                                A5
+   A4                                                                                A5
 
-                                                              ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid12_4.png)                               ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid13_3.png)
+  ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid12_4.png)                               
+  ![](https://moer.maricopa.edu/filestore/ufiles/2745/blobid13_3.png)
 
 Solutions: 
 
